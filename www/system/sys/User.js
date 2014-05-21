@@ -10,7 +10,7 @@ Ext.define('system.sys.User', {
 		region : 'west',
 		xtype : 'button',
 		width : 150,
-		text : 'btnjjjjjjjj',
+		text : 'HOLA',
 		id : 'btn_bt'
 	}, {
 		region : 'center',
